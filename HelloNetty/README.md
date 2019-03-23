@@ -3,10 +3,10 @@
 ## 引入依赖
 ```
 <dependency>
-	    <groupId>io.netty</groupId>
-	    <artifactId>netty-all</artifactId>
-	    <version>4.1.25.Final</version>
-	</dependency>	
+	<groupId>io.netty</groupId>
+	<artifactId>netty-all</artifactId>
+	<version>4.1.25.Final</version>
+</dependency>	
 ```
 
 ## 编写启动类
